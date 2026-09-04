@@ -1,5 +1,5 @@
 
-public class AlgortmoTres {
+public class AlgoritmoTres {
     void main(){
     //número inteiros de 0 a 100
     int nota1,nota2,nota3;
